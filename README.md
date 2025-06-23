@@ -1,6 +1,6 @@
-# ML-DL-Decision-Support-System-for-Vehicle-Pricing-and-Sales-Forecasting
+# ML/DL-Based Decision Support System for Second-Hand Vehicle Pricing and Company-Level Sales Forecasting
 
-This project is a decision support system for vehicle pricing and sales forecasting, utilizing machine learning and deep learning techniques. The system provides various functionalities such as extracting information about motorcycles and electric vehicles, predicting sell/buy prices, and forecasting annual sales.
+This project is a decision support system for second-hand vehicle pricing and sales forecasting, utilizing machine learning and deep learning techniques. It provides various functionalities such as extracting information about motorcycles, predicting buy/sell prices, and forecasting a company's total annual sales.
 
 ## Functionalities
 
