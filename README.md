@@ -8,7 +8,7 @@ This project is a decision support system for second-hand vehicle pricing and sa
 2. **Electric Vehicle Information**: Provides information about electric vehicles based on user preferences.
 3. **Sell/Buy Price Prediction**: Predicts the second-hand price of vehicles ranging from maximum to minimum based on user-entered vehicle information.
 4. **Annual Sales Forecast**: Utilizes time series forecasting algorithms such as LSTM, RNN, and GRU to predict future sales market trends for different companies.
-5. **Exit**: Exit the program.
+
 
 ## Recommendation System
 
